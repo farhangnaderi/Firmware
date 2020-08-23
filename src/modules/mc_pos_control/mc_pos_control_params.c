@@ -109,7 +109,7 @@ PARAM_DEFINE_INT32(MPC_THR_CURVE, 0);
  */
 PARAM_DEFINE_FLOAT(GND_THR_MIN, 0.0f);
 
-/** Added this to make the idle throttle changeable
+/** Added this to make the idle throttle changed
 */
 
 PARAM_DEFINE_FLOAT(MPC_THR_MAX, 1.0f);
